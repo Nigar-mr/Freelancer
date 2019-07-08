@@ -1,0 +1,25 @@
+
+.header_img {
+    width: 35rem !important;
+    border-radius: 33%;
+    height: 24rem;
+}
+
+.portfolio_caption {
+    position: absolute;
+    top: 18%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+}
+
+.portfolio_image{
+    width: 349.98px!important;
+    height: 262.48px!important;
+
+}
+
+.btn_css{
+    background-color: #0a7798;
+    color:white;
+}
